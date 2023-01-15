@@ -10,11 +10,6 @@ def arithmetic_arranger(problems, solve = False):
     # + 698    -   2    +  43    +  49
     # -----    -----    -----    -----
 
-    # observations
-    # 1. needs to output multiple lines per problem 
-    # 2. must count number of characters needed to create a line
-    # 3. split up first number from +/- and second number
-
     # string format example
     # "   32    3801       45      123\n+ 698    -   2    +  43    +  49\n-----    -----    -----    -----"
 
